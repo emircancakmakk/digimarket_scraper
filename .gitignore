@@ -6,4 +6,3 @@ mpn
 __pycache__
 output.json
 error.txt
-config.json
