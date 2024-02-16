@@ -1,0 +1,382 @@
+Manufacturer: NICHIFU
+Type of tip: fork
+Hole for screw: M4
+Wire cross-section minimum: 0.2 mm2
+Wire cross-section maximum: 0.5 mm2
+Electrical mounting: crimped
+Mechanical mounting: for cable
+Ferrule variant: non-insulated
+Wire size minimum: 24AWG
+Wire size maximum: 20AWG
+Ring inside diameter: 4.3mm
+Connector: plug
+Type of connector: BNC
+Kind of connector: female
+Spatial orientation: straight
+Wave impedance: 50Ω
+Kind of cable: B7806A, B9907, LMR195, RG58, RG141, RG303
+Insulator material: delrin POM
+Contact plating: gold-plated
+Dedicated tool: CTL-3
+Max. frequency: 4GHz
+Standing wave-ratio: 1.3
+Connector series: ZYLIN
+Number of pins: 26
+Locking system: external thread
+IP rating: IP67
+Wire cross-section: 1mm2
+Connector variant: shielded
+Current rating: 7.5A
+Rated voltage: 60V
+Cable external diameter minimum: 6.5 mm
+Cable external diameter maximum: 16 mm
+Type of enclosure: for M23 connectors
+Standard: IEC 60320
+Design: fuse x2
+Fuse size: 5x20mm
+Number of ways: 3
+Contacts pitch: 2.5mm
+Connectors application: LED Light, solid wire, strand
+Operating temperature minimum: -40 Celsius
+Operating temperature maximum: 125 Celsius
+Core diameter minimum: 0.7 mm
+Core diameter maximum: 1 mm
+Maximum current: 1A
+Impedance: 50Ω
+Type of splice terminal: quick splice
+Wire size: 12AWG
+Number of terminals: 2
+Trade name: quick splice
+Splice terminal variant: with double pushbutton
+Type of connector accessories: protection cover
+Colour: black
+Width: 10mm
+Height: 80mm
+Flammability rating: UL94HB
+Type of pin configuration: 180°
+Polarisation: 4H
+Contact material: brass
+Alias: 02 05 000 0004
+Engineering PN: DIN-Signal harbus64-160FC-B
+Conform to the norm: VDE
+Type of tool: mounting tool
+Type of terminal: flat
+Thickness: 0.8mm
+Kind of terminal: female
+Kind of package: reel
+Quantity in set/package: 6000pcs.
+Case: size 12
+Enclosure material: plastic
+Related items: 09060019979
+Cable length: 0.035m
+Type of cable accessories: bracket
+Manufacturer series: 03
+Cable accessories application: for cable chain
+Bending radius: 10mm
+Length: 1000mm
+Version: to be filled along the outer radius
+External height: 8mm
+External width: 10.7mm
+Internal height: 5mm
+Internal width: 7mm
+Type of transition: coupler
+Test voltage: 500V
+Mating height minimum: 8 mm
+Mating height maximum: 12.3 mm
+Thread: M16
+Thread pitch: 0.75
+Material: bronze
+Overall length: 14.5mm
+Terminal pitch: 5mm
+Crimp tool application: contacts
+Contact size: 20
+Ribbon cable pitch: 1mm
+Max. voltage: 50V
+Body colour: grey
+Marker colour: black
+Tools application: for IDC connectors
+LED colour: LED1: orange + green, LED2: yellow
+Cable external diameter: 3.6mm
+Body material: metal
+Gland thread: PG11
+Spanner size: 24mm
+Insert mounting: 57x27mm, 77.5x27mm, 104x27mm
+Mechanical durability: 400 cycles
+Contact application: type B, type C
+Leads dimensions: L 3mm
+Mounting: on cable
+Application: type 2F, type D, type E, type F9, type F, type MH
+Connectors features: mounting in a housing is not possible
+Mounting plate thickness minimum: 1.6 mm
+Mounting plate thickness maximum: 3.2 mm
+Panel thickness: max. 1.5mm
+Output: 2x female
+Wire cross-section 1 minimum: 35 mm2
+Wire cross-section 1 maximum: 70 mm2
+Width in modules: 1
+Operating pressure: max. 8bar
+Gasket material: HNBR
+Marking: PE
+Plating thickness: 3µm
+Max. contact resistance: : 0.3mΩ
+Min. insulation resistance: 10GΩ
+Mounting hole diameter: 2.7mm
+Fastening thread: M25
+Current rating 1: 20A
+Current rating 2: 8A
+Connector accessories features: with nylon rope
+Type of wire: ribbon
+Core structure: stranded
+Kind of core: Cu, tinned
+Number of cores: 6
+Core diameter: 28AWG
+Shield structure: unshielded
+Wire insulation material: polyolefine
+Insulation colour: grey
+A dimension: 7.28mm
+B dimension: 6.35mm
+Package contents: 30.5m
+Kind of material: halogen free
+Wire cross-section shape: round
+Lever colour: black
+Number of gland holes: 1
+Body dimensions: 33x56x23mm
+Cross section of connecting wires: 6mm2
+Kit contents: 5x comb bridge
+Ethernet category: Cat 6
+Resistance to: corrosion
+Wire cross-section 1: 8mm2
+Wire cross-section 2: 2.5mm2
+Data transfer rate: 10Gbps
+Cable/adapter structure: RJ45 socket x2
+Cable application: industrial Ethernet, PROFINET
+Kind of wire: EtherRail®
+No. of pairs: 4
+Cable features: twisted pair conductors
+Number of ports: 1
+Mounting rail size: TS35
+Type of connection cable: patch cord
+Connector 1: plug
+Connector 2: plug
+Kind of connector 1: male
+Kind of connector 2: male
+Spatial orientation 1: straight
+Spatial orientation 2: straight
+Screw length: 9.9m
+Thread length: 2.7mm
+External thread: UNC4-40
+Internal thread: UNC4-40
+Closing system: screwed
+Max. wire diameter: 8mm
+Number of contacts 1: 2
+Number of contacts 2: 5
+Body coating: cadium
+Input: M12 female socket
+Number of inputs: 10
+Number of outputs: 1
+Kind of output connector: M23 male socket 6pin
+Kind of screwdriver: Allen
+Allen key (size | longer arm length | shorter arm length): 2mm
+Cross section of connecting wires minimum: 0.5 mm2
+Cross section of connecting wires maximum: 2.5 mm2
+Max cable section: 0.6mm2
+Min. diameter before shrinking: 1.7mm
+Diameter after shrinking: 0.4mm
+Panel thickness minimum: 1.52 mm
+Panel thickness maximum: 3.2 mm
+Profile height: 11.5mm
+Number of pieces on reel: 2500pcs.
+Operating temperature: max. 105°C
+Max. cable diameter: 2.84mm
+Depth: 18.4mm
+Length of metal part: 6.7mm
+Bit length: 8mm
+Lead length: 3mm
+Family: FCI
+Kind of card: SD
+Contact rated current: 1A
+Mounting holes raster: 38.74mm
+Card connector features: low profile
+Connectors for the country: Great Britain
+Outside diameter: 0.6mm
+Net weight: 0.25kg
+CPR standard: no classification
+Information: The UL Label and Mark on full factory packaging only
+Max. operating current: 500mA
+Type of fuse accessories: fuse clips
+Fuses application: cylindrical fuses
+Core marking: colours without colour repetition
+Earth core: none
+Package contents - ft: 1000ft
+Core section: 0.75mm2
+Flexibility class: 5
+Current rating minimum: 10 A
+Current rating maximum: 63 A
+OEM number: 6FX8008-1BB61
+Max. operating voltage: 1.5kV DC
+Diameter: 1mm
+Ground: tinned copper strand 22AWG
+L1 dimension: 2.4mm
+D2 dimension: 1.8mm
+E dimension: 1.05mm
+D1 dimension: 1mm
+Transfer rate: 4Gbps
+Hole diameter: 3.6mm
+Panel cutout diameter: 4.1mm
+Number of modules: 4
+Cable gland version: with earthing
+Body plating: nickel
+Kind of thread: metric
+Spanner size minimum: 14 mm
+Spanner size maximum: 15 mm
+Sleeve internal diameter: 8.5mm
+Shrinkage temperature: 135°C
+Leads: 6,3x0,8mm connectors
+Inductance: 10mH
+Capacitance Cx: 101.5nF
+Capacitance Cy: 5.9nF
+Mounting holes pitch: 40mm
+Leakage current: 0.38mA
+Resistance: 1.5MΩ
+Supply voltage frequency: 50/60Hz
+Plating material: nickel
+Number of holes: 12
+Size: 9
+Cable accessories features: semir-rigid
+Wire diameter minimum: 6.8 mm
+Wire diameter maximum: 12.5 mm
+Wire cross-section 2 minimum: 2.5 mm2
+Wire cross-section 2 maximum: 4 mm2
+Shrinking ratio: 3:1
+Dielectric strength: 15kV/mm
+S dimension: 20mm
+H dimension: 33mm
+P dimension: 94mm
+J dimension minimum: 4.1 mm
+J dimension maximum: 17.5 mm
+Stripped wire length: 11mm
+Connector colour: grey
+Internal diameter minimum: 6.25 mm
+Internal diameter maximum: 11.1 mm
+Shape: T
+C dimension: 25mm
+Min. height: 0.0068m
+Maximum height: 7.5mm
+Indexed positions: 45°
+Rivet length: 8mm
+Rivet diameter: 4mm
+Row pitch: 5.08mm
+Contacts configuration: DPST
+Backlight colour: red
+Plug outside diameter: 5.5mm
+Plug inside diameter: 2.1mm
+Cable outside dimensions: 1x4mm
+AC test voltage: 2kV
+Type of spacer: screwed spacer sleeve
+Max. current load: 42A
+Kind of head: hexagonal
+Rated voltage 1: 630V
+Rated voltage 2: 250V
+Connection cable features: interference ferrite filter
+Kind of braid: braid
+Braid inside diameter: 5.08mm
+Braid structure: 192x0.16mm
+Type of kit: preLink starter pack
+Type of installation accessories: through-type terminal
+Transition features: works with 4K, UHD
+Type of device: repeater USB
+Braid material: textile
+Enclosures application: XLR sockets
+Soldering temperature: 235°C
+Kind of input connector: HDMI socket
+Dimension L2: 12.1mm
+L3 dimension: 13.3mm
+PC cable/adapter application: storage devices connection for mobile devices like smartphones
+Kind of fiber: MMF OM3
+Application of connection lead: Xiaomi Amazfit Bip S
+Power: 100W
+Seal material: EPDM
+Damping coefficient: 6dB
+Type of enclosures accessories: DIN rail
+Operating system: Linux, Mac OS, Windows 7, Windows 8, Windows 10
+D dimension: 24mm
+d dimension: 7mm
+Number of fibers: 12
+Max ambient temperature: 105°C
+L dimension: 7mm
+Manufacture class: standard
+Key button colour: black
+Illumination: neon lamp
+Button marking: O-I
+Rated coil voltage: 12V DC
+Operating current: 16A
+No. of sockets: 2
+Label length: 60mm
+Label width: 15mm
+Internal diameter: 2.4mm
+Laminate thickness: 0.785mm
+Useful height (U): 1U
+Optic fibre category: OM3
+Climate class: HPF 25/085/21
+Max number of cycles: 100
+DIN standard: DIN 41524
+Important information: price given for 1 marker
+Range: 60m
+Mounting hole diameter minimum: 2.2 mm
+Mounting hole diameter maximum: 3.2 mm
+F dimension: 12.7mm
+PC accessories application: extracting audio and HDMI signal
+Max picture resolution: 1920x1080px
+Fiber dimensions: 980/1000µm
+Fiber marking: colours without colour repetition
+Interface: CAN
+Test voltage AC: 4.2kV
+Leakage current minimum: 0.25 mA
+Leakage current maximum: 0.45 mA
+Min. frequency: 5MHz
+Capacitance: 820pF
+Usable dimensions: 3.5x1.8mm
+Grommet version: with bulkhead
+Mating height: 3mm
+Wall thickness: 2.2mm
+Dimension G: 12.6mm
+Assembly hole 1 diameter: 8.5mm
+Assembly hole 2 diameter: 8.5mm
+Coiled cable length before stretching: 0.3m
+Length of the lengthen coiled cord: 1.2m
+Wire resistance: 19.1Ω/m
+Thickness minimum: 0.5 mm
+Thickness maximum: 0.8 mm
+Mechanical elements features: vibrations damping
+H1 dimension: 2.4mm
+H2 dimension: 12.7mm
+Number of characters: 46
+Bundle diameter minimum: 25 mm
+Bundle diameter maximum: 32 mm
+Wire colour: black
+Wall thickness minimum: 0.78 mm
+Wall thickness maximum: 2 mm
+Kind of cut: Phillips
+Diameter minimum: 20 mm
+Diameter maximum: 27 mm
+D3 dimension: 12.2mm
+D4 dimension: 15.1mm
+Kind of handle: E27
+Cover colour: white
+Braid inside diameter minimum: 10 mm
+Braid inside diameter maximum: 16 mm
+Frequency minimum: 0 GHz
+Frequency maximum: 4 GHz
+Tie width: 4.7mm
+Input diameter: 2.6mm
+Output diameter: 5.5mm
+Dimensions: 22.5x20mm
+Wire diameter: 6mm
+No. of labels: 200pcs.
+Kind of adhesive: acrylic
+t dimension: 3mm
+Max motor power: 0.09kW, 0.1kW, 0.1/0.2kW, 0.12kW, 0.18kW, 0.2kW, 0.2/0.4kW, 0.25kW, 0.37kW, 0.4kW, 0.4/0.55kW, 0.4/0.75kW, 0.55kW, 0.75kW, 0.75/1.1kW, 0.75/1.5kW, 1.1kW, 1.5kW
+Number of chambers: 2
+Number of sockets: 3
+Printed character colour: black
+Label dimensions: 11x44mm
