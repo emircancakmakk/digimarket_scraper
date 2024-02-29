@@ -26,7 +26,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [emircancakmakk/digimarket_scraper](https://github.com/emircancakmakk/digimarket_scraper)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|51<br/>Tools used|02/16/24 <br/>Report generated|
+|51<br/>Tools used|02/29/24 <br/>Report generated|
 |------|------|
 </div>
 
@@ -104,7 +104,7 @@ Full tech stack [here](/techstack.md)
 |[certifi](https://pypi.org/project/certifi)|v2023.7.22|02/16/24|Emircan Cakmak |MPL-2.0|N/A|
 |[chardet](https://pypi.org/project/chardet)|v4.0.0|02/16/24|Emircan Cakmak |LGPL-2.1|N/A|
 |[charset-normalizer](https://pypi.org/project/charset-normalizer)|v3.2.0|02/16/24|Emircan Cakmak |N/A|N/A|
-|[cryptography](https://pypi.org/project/cryptography)|v3.4.8|02/16/24|Emircan Cakmak |BSD-3-Clause,Apache-2.0|[CVE-2023-0286](https://github.com/advisories/GHSA-x4qr-2fvf-3mr5) (High)<br/>[CVE-2023-50782](https://github.com/advisories/GHSA-3ww4-gg4f-jr7f) (High)<br/>[CVE-2023-49083](https://github.com/advisories/GHSA-jfhm-5ghh-2f97) (Moderate)<br/>[CVE-2023-23931](https://github.com/advisories/GHSA-w7pp-m8wf-vj6r) (Moderate)<br/>[](https://github.com/advisories/GHSA-5cpq-8wj7-hf2v) (Low)<br/>[](https://github.com/advisories/GHSA-jm77-qphf-c4w8) (Low)<br/>[](https://github.com/advisories/GHSA-v8gr-m533-ghj9) (Low)|
+|[cryptography](https://pypi.org/project/cryptography)|v3.4.8|02/16/24|Emircan Cakmak |BSD-3-Clause,Apache-2.0|[CVE-2023-0286](https://github.com/advisories/GHSA-x4qr-2fvf-3mr5) (High)<br/>[CVE-2023-50782](https://github.com/advisories/GHSA-3ww4-gg4f-jr7f) (High)<br/>[CVE-2023-49083](https://github.com/advisories/GHSA-jfhm-5ghh-2f97) (Moderate)<br/>[CVE-2023-23931](https://github.com/advisories/GHSA-w7pp-m8wf-vj6r) (Moderate)<br/>[CVE-2024-0727](https://github.com/advisories/GHSA-9v9h-cgj8-h64p) (Moderate)<br/>[](https://github.com/advisories/GHSA-v8gr-m533-ghj9) (Low)<br/>[](https://github.com/advisories/GHSA-5cpq-8wj7-hf2v) (Low)<br/>[](https://github.com/advisories/GHSA-jm77-qphf-c4w8) (Low)|
 |[dbus-python](https://pypi.org/project/dbus-python)|v1.2.18|02/16/24|Emircan Cakmak |X11|N/A|
 |[deprecation](https://pypi.org/project/deprecation)|v2.1.0|02/16/24|Emircan Cakmak |Apache-2.0|N/A|
 |[distlib](https://pypi.org/project/distlib)|v0.3.4|02/16/24|Emircan Cakmak |Python-2.0|N/A|
